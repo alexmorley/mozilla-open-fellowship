@@ -2,8 +2,8 @@ Just some brief notes about each of my fellow-fellows taken during their onboard
 
 If you have time you'll be better off reading about them [here](https://blog.mozilla.org/blog/2018/08/21/mozilla-announces-25-new-fellows-in-openness-science-and-tech-policy/) or watching the presentations on youtube below:  
 
-Slide Deck Available [here](https://docs.google.com/presentation/d/108FZqaOhfp24xeIYJ5sV0FWIrotn0TZnTMkiWA9gc9U/edit)
-Live talks [here](https://www.youtube.com/watch?v=obqCyTMaSy0)
+- Slide Deck Available [here](https://docs.google.com/presentation/d/108FZqaOhfp24xeIYJ5sV0FWIrotn0TZnTMkiWA9gc9U/edit)
+- Live talks [here](https://www.youtube.com/watch?v=obqCyTMaSy0)
 
 ### Brett 
 - Internet issue documentary maker
