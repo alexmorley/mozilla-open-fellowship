@@ -1,5 +1,5 @@
 ## Ideas
-These are some random ideas that I may or may not ever get time to work on. There all CC0 licensed so you may use them as you see fit but I'd be nice to know what your doing with them if they do happen to go anywhere :)
+These are some random ideas that I may or may not ever get time to work on. There all [CC0](https://creativecommons.org/publicdomain/zero/1.0/) licensed so you may use them as you see fit but I'd be nice to know what your doing with them if they do happen to go anywhere :)
 
 ### Random
 - CV (curriculum vitae) as a mind map...
