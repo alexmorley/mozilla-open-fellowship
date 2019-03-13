@@ -27,5 +27,6 @@ Notes and open collaborative documents for my Mozilla Fellowship. Early Autumn 2
 **[The Turing Way - A Guide to Reproducible Data Science](https://github.com/alan-turing-institute/the-turing-way)**
 
 :computer: Software  
-**[MountainLabJS](https://github.com/flatironinstitute/mountainlab-js)**
+**[Spikeforest](https://github.com/flatironinstitute/spikeforest)** / **[MountainLabJS](https://github.com/flatironinstitute/mountainlab-js)**
+
 
