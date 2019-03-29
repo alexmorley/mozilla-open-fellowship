@@ -21,7 +21,7 @@ Notes and open collaborative documents for my Mozilla Fellowship. Early Autumn 2
 :scroll: Paper  
 **[Continuous Research](https://github.com/alexmorley/ContinuousResearch)**
 
-### Contributing
+### Core Contributor
 
 :closed_book: Book  
 **[The Turing Way - A Guide to Reproducible Data Science](https://github.com/alan-turing-institute/the-turing-way)**
