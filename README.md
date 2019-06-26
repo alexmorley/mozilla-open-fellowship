@@ -14,6 +14,10 @@ A proposal to emulate, and build upon, the work done by backyourstack.com, in or
 **[Feed.Me](https://github.com/alexmorley/feed.me)**  
 A browser-extension to customise (social media) feeds client-side. The aim is give anyone the power to take control over the algorithms that dictate what they see on social media.  
 
+:wrench: Tool
+**[Hackathon / Sprint Live - Watch The Turing Way](https://github.com/alexmorley/watch_turing_way)**
+A  mini-app that tracks contributions during a sprint.
+
 :floppy_disk: Database  
 **[Meta Open Database](https://github.com/alexmorley/meta-open-database)**  
 Our aim is to create a database that will provide, and link, information about the multitude of factors that determine whether a piece of tech is right for you. This project also acts as a backend to Back You Scientific Stack.
